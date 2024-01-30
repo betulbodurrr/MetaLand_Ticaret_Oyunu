@@ -4,8 +4,9 @@ MetaLand Ticaret Oyunu<br>
 
 Programming Laboratory I, our 2rd project is the MetaLand Trading Game project.
 It is written in the Java language.<br>
+MySQL was used as the database.<br>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  height="30" width="40" /></a><br>
-
 Project Description:<br>
 <br>
 [For Project Details, Click Here.](https://github.com/betulbodurrr/MetaLand_Ticaret_Oyunu/blob/main/Project_3.pdf)
@@ -15,6 +16,9 @@ Project Description:<br>
 <img align="center" src="https://www.svgrepo.com/show/237418/turkey.svg"  height="30" width="40" />Tr:</a><br>
 Programlama Laboratuvarı I dersimizin 2. projesi olan MetaLand Ticaret Oyunu projesidir.
 Java dilinde yazılmıştır.<br>
+Veritabanı olarak MySQL kullanılmıştır.<br>
+
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  height="30" width="40" /></a><br>
 
 Proje Açıklaması:<br>
